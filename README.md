@@ -6,7 +6,7 @@ git push origin master
 touch privado.txt
 mkdir privada
 
-Estoy un poco perdido en esta parte, no tengo claro si tengo que escribir los comandos en gitbash, el el github desktp o desde la versión web. En fin, aquí va la tabla:
+
 
 |        NOMBRE          |                     GITHUB                        |
 |------------------------|---------------------------------------------------|
